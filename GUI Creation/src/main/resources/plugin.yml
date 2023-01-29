@@ -1,0 +1,6 @@
+name: Guicreation
+version: '${project.version}'
+main: com.cxgaming.guicreation.Main
+api-version: 1.19
+commands:
+  menu:
