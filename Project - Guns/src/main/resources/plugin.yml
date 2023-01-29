@@ -1,0 +1,4 @@
+name: Project1
+version: '${project.version}'
+main: com.cxgaming.project1.Main
+api-version: 1.19
